@@ -46,6 +46,10 @@
 
 ---
 
+<img align="left" alt="Skay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skaytech&show_icons=true&hide_border=true">
+
+---
+
 [website]: https://skay.dev
 [twitter]: https://twitter.com/skay_tech
 [linkedin]: https://www.linkedin.com/in/kshivkumar/
