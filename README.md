@@ -30,6 +30,8 @@
 <br />
 <br />
 
+---
+
 [website]: https://skay.dev
 [twitter]: https://twitter.com/skay_tech
 [linkedin]: https://www.linkedin.com/in/kshivkumar/
