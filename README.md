@@ -42,6 +42,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Docker Fundamentals](https://dev.to/skaytech/docker-fundamentals-2ibi)
 - [ES6 - Higher Order Functions](https://dev.to/skaytech/es6-higher-order-functions-495e)
 - [ES6 - Spread Operator](https://dev.to/skaytech/es6-spread-operator-3ced)
@@ -52,8 +53,6 @@
 ---
 
 <img align="left" alt="Skay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skaytech&show_icons=true&hide_border=true">
-
----
 
 [website]: https://skay.dev
 [twitter]: https://twitter.com/skay_tech
