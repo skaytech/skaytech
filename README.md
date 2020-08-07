@@ -39,6 +39,13 @@
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 [website]: https://skay.dev
 [twitter]: https://twitter.com/skay_tech
 [linkedin]: https://www.linkedin.com/in/kshivkumar/
