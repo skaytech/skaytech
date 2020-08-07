@@ -1,11 +1,11 @@
-### Hi there, I'm Karthik - aka [skay][website] 👋
+## Hi there, I'm Karthik - aka [skay][website] 👋
 
-## I'm a Father, Husband, and a Software Engineer who specializes in Front-End Technologies!
+### I'm a Father, Husband, and a Software Engineer who specializes in Front-End Technologies!
 
 - 🔭 I’m currently working on a few projects using ReactJS!
 - 🌱 I’m also building a full stack application for a dear friend & checking out Gatsby for my website.
 - 👯 I have been blogging regularly & collaborating with other devs on Twitter.
-- 🥅 2020 Goals: Blog regularly & specialize in building applications using ReactJS.
+- 🥅 2020 Goals: Specialize in web development with ReactJS & build full stack applications. Blog regularly.
 - ⚡ Fun fact: I love playing the musical keyboard & certified Level 2 - Trinity School of Music, London
 
 ### Connect with me:
