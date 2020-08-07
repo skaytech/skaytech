@@ -44,7 +44,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Docker Fundamentals](https://dev.to/skaytech/docker-fundamentals-2ibi)
+- [Docker Fundamentals](https://dev.to/skaytech/docker-fundamentals-2ibi)
 - [ES6 - Higher Order Functions](https://dev.to/skaytech/es6-higher-order-functions-495e)
 - [ES6 - Spread Operator](https://dev.to/skaytech/es6-spread-operator-3ced)
 - [The ES6 features that are popular to be asked in an interview!](https://dev.to/skaytech/the-es6-features-that-are-popular-to-be-asked-in-an-interview-1115)
