@@ -43,7 +43,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Docker Fundamentals](https://dev.to/skaytech/docker-fundamentals-2ibi)
 - [ES6 - Higher Order Functions](https://dev.to/skaytech/es6-higher-order-functions-495e)
 - [ES6 - Spread Operator](https://dev.to/skaytech/es6-spread-operator-3ced)
