@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a custom SPA Router using VanillaJS](https://dev.to/skaytech/build-a-custom-spa-router-using-vanillajs-4a9l)
 - [Docker Fundamentals](https://dev.to/skaytech/docker-fundamentals-2ibi)
 - [ES6 - Higher Order Functions](https://dev.to/skaytech/es6-higher-order-functions-495e)
 - [ES6 - Spread Operator](https://dev.to/skaytech/es6-spread-operator-3ced)
 - [The ES6 features that are popular to be asked in an interview!](https://dev.to/skaytech/the-es6-features-that-are-popular-to-be-asked-in-an-interview-1115)
-- [What are Git Hooks?](https://dev.to/skaytech/what-are-git-hooks-99m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
