@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is 'this' in JavaScript?](https://dev.to/skaytech/what-is-this-in-javascript-3d3i)
 - [A Practical Guide to help you stay more Organised & Productive](https://dev.to/skaytech/a-practical-guide-to-help-you-stay-more-organised-productive-3p0g)
 - [Build a custom SPA Router using VanillaJS](https://dev.to/skaytech/build-a-custom-spa-router-using-vanillajs-4a9l)
 - [Docker Fundamentals](https://dev.to/skaytech/docker-fundamentals-2ibi)
 - [ES6 - Higher Order Functions](https://dev.to/skaytech/es6-higher-order-functions-495e)
-- [ES6 - Spread Operator](https://dev.to/skaytech/es6-spread-operator-3ced)
 <!-- BLOG-POST-LIST:END -->
 
 ---
