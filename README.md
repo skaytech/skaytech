@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Basic Introduction to Webpack](https://dev.to/skaytech/a-basic-introduction-to-webpack-4eke)
 - [Hiring Software Engineers for Start-ups - An Engineering Manager’s perspective](https://dev.to/skaytech/hiring-software-engineers-for-start-ups-an-engineering-manager-s-perspective-5b50)
 - [What is 'this' in JavaScript?](https://dev.to/skaytech/what-is-this-in-javascript-3d3i)
 - [A Practical Guide to help you stay more Organised & Productive](https://dev.to/skaytech/a-practical-guide-to-help-you-stay-more-organised-productive-3p0g)
 - [Build a custom SPA Router using VanillaJS](https://dev.to/skaytech/build-a-custom-spa-router-using-vanillajs-4a9l)
-- [Docker Fundamentals](https://dev.to/skaytech/docker-fundamentals-2ibi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
