@@ -2,11 +2,11 @@
 
 ### I'm a Father, Husband, and a Software Engineer who specializes in Front-End Technologies!
 
-- 🔭 I’m currently working on a few projects using ReactJS!
-- 🌱 I’m also building a full stack application for a dear friend & checking out Gatsby for my website.
-- 👯 I have been blogging regularly & collaborating with other devs on Twitter.
-- 🥅 2020 Goals: Specialize in web development with ReactJS & build full stack applications. Blog regularly.
-- ⚡ Fun fact: I love playing the musical keyboard & certified Level 2 - Trinity School of Music, London
+- 🔭 I’m currently working on a full-stack App with ReactJS as Frontend and Java Spring Boot/PostgreSQL as Backend.
+- 🌱 I’m working on V2 of my portfolio site using Gatsby & Strapi.
+- 👯 I have been blogging regularly at https://blog.skay.dev & collaborating with other devs on Twitter.
+- 🥅 2020 Goals: Specialize in web development with ReactJS & build full stack applications. Blog atleast one article in a week.
+- ⚡ Fun fact: I love playing the musical keyboard & certified Level 2 - Trinity School of Music, London.
 
 ### Connect with me:
 
