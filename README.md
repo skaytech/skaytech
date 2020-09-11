@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Value Proposition?](https://dev.to/skaytech/what-is-value-proposition-1da4)
 - [How to install Node Version Manager (NVM) for Windows 10?](https://dev.to/skaytech/how-to-install-node-version-manager-nvm-for-windows-10-4nbi)
 - [A Basic Introduction to Webpack](https://dev.to/skaytech/a-basic-introduction-to-webpack-4eke)
 - [Hiring Software Engineers for Start-ups - An Engineering Manager’s perspective](https://dev.to/skaytech/hiring-software-engineers-for-start-ups-an-engineering-manager-s-perspective-5b50)
 - [What is 'this' in JavaScript?](https://dev.to/skaytech/what-is-this-in-javascript-3d3i)
-- [A Practical Guide to help you stay more Organised & Productive](https://dev.to/skaytech/a-practical-guide-to-help-you-stay-more-organised-productive-3p0g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
