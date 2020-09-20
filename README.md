@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a full-stack App with ReactJS as Frontend and Java Spring Boot/PostgreSQL as Backend.
 - 🌱 I’m working on V2 of my portfolio site using Gatsby & Strapi.
 - 👯 I have been blogging regularly at https://blog.skay.dev & collaborating with other devs on Twitter.
-- 🥅 2020 Goals: Specialize in web development with ReactJS & build full stack applications. Blog atleast one article in a week.
+- 🥅 2020 Goals: Specialize in web development with ReactJS & build full stack applications. Blog atleast one article a week.
 - ⚡ Fun fact: I love playing the musical keyboard & certified Level 2 - Trinity School of Music, London.
 
 ### Connect with me:
