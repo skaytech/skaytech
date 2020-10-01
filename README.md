@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Must-Read Tips to write a Killer Blog Article!](https://dev.to/skaytech/5-must-read-tips-to-write-a-killer-blog-article-510c)
 - [How to Evaluate your Product Idea for Market Fitment?](https://dev.to/skaytech/how-to-evaluate-your-product-idea-for-market-fitment-n5e)
 - [What is Event Loop in JavaScript?](https://dev.to/skaytech/what-is-event-loop-in-javascript-5356)
 - [What is Value Proposition?](https://dev.to/skaytech/what-is-value-proposition-1da4)
 - [How to install Node Version Manager (NVM) for Windows 10?](https://dev.to/skaytech/how-to-install-node-version-manager-nvm-for-windows-10-4nbi)
-- [A Basic Introduction to Webpack](https://dev.to/skaytech/a-basic-introduction-to-webpack-4eke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
