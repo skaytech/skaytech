@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Gentle Introduction to the Big O Notation, Time & Space Complexity](https://dev.to/skaytech/a-gentle-introduction-to-the-big-o-notation-time-space-complexity-3hdd)
 - [What is Currying in JavaScript?](https://dev.to/dailydotdev/what-is-currying-in-javascript-3n9l)
 - [5 Must-Read Tips to write a Killer Blog Article!](https://dev.to/skaytech/5-must-read-tips-to-write-a-killer-blog-article-510c)
 - [How to Evaluate your Product Idea for Market Fitment?](https://dev.to/skaytech/how-to-evaluate-your-product-idea-for-market-fitment-n5e)
 - [What is Event Loop in JavaScript?](https://dev.to/skaytech/what-is-event-loop-in-javascript-5356)
-- [What is Value Proposition?](https://dev.to/skaytech/what-is-value-proposition-1da4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
