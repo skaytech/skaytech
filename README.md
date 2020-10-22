@@ -2,7 +2,7 @@
 
 ### I'm a Father, Husband, and a Software Engineer who specializes in Front-End Technologies!
 
-- 🔭 I’m currently working on a full-stack App with ReactJS as Frontend and Java Spring Boot/PostgreSQL as Backend.
+- 🔭 I’m currently working as a technology consultant on a full-stack App with ReactJS as Frontend and Java Spring Boot/PostgreSQL as Backend.
 - 🌱 Completed the V2 of my portfolio site using Gatsby & Strapi.
 - 👯 I have been blogging regularly at https://blog.skay.dev & collaborating with other devs on Twitter.
 - 🥅 2020 Goals: Specialize in web development with ReactJS & build full stack applications. Blog atleast one article a week.
