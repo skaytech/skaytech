@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why work at a Startup and What to expect?](https://dev.to/skaytech/why-work-at-a-startup-and-what-to-expect-4ip8)
 - [A Detailed overview of NPM, Registry, CLI & it's related Components](https://dev.to/skaytech/a-detailed-overview-of-npm-registry-cli-it-s-related-components-f8o)
 - [The React Ecosystem](https://dev.to/skaytech/the-react-ecosystem-1l05)
 - [Why you should choose to learn 'React'?](https://dev.to/skaytech/why-you-should-choose-to-learn-react-2g70)
 - [A Gentle Introduction to the Big O Notation, Time & Space Complexity](https://dev.to/skaytech/a-gentle-introduction-to-the-big-o-notation-time-space-complexity-3hdd)
-- [What is Currying in JavaScript?](https://dev.to/dailydotdev/what-is-currying-in-javascript-3n9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
