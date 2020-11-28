@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Technical Debt?](https://dev.to/skaytech/what-is-technical-debt-1mmi)
 - [How to provide estimates as a Junior Developer?](https://dev.to/skaytech/how-to-provide-estimates-as-a-junior-developer-a2n)
 - [Why work at a Startup and What to expect?](https://dev.to/skaytech/why-work-at-a-startup-and-what-to-expect-4ip8)
 - [A Detailed overview of NPM, Registry, CLI & it's related Components](https://dev.to/skaytech/a-detailed-overview-of-npm-registry-cli-it-s-related-components-f8o)
 - [The React Ecosystem](https://dev.to/skaytech/the-react-ecosystem-1l05)
-- [Why you should choose to learn 'React'?](https://dev.to/skaytech/why-you-should-choose-to-learn-react-2g70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
