@@ -2,10 +2,10 @@
 
 ### I'm a Father, Husband, and a Software Engineer who specializes in Front-End Technologies!
 
-- 🔭 I’m currently working as a technology consultant on a full-stack App with ReactJS as Frontend and Java Spring Boot/PostgreSQL as Backend.
+- 🔭 I’m currently working as a Technical Product Manager with BuildOps. I'm also a full-stack engineer experienced with the tech stack ReactJS, Java, PostgreSQL.
 - 🌱 Completed the V2 of my portfolio site using Gatsby & Strapi.
-- 👯 I have been blogging regularly at https://blog.skay.dev & collaborating with other devs on Twitter.
-- 🥅 2020 Goals: Specialize in web development with ReactJS & build full stack applications. Blog atleast one article a week.
+- 👯 I actively blog at https://blog.skay.dev & love collaborating with other devs from the open source community.
+- 🥅 2021 Goals: Deep dive into Product Management and continue to learn web development and work on my side-projects.
 - ⚡ Fun fact: I love playing the musical keyboard & certified Level 2 - Trinity School of Music, London.
 
 ### Connect with me:
