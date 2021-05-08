@@ -1,6 +1,6 @@
 ## Hi there, I'm Karthik - aka [skay][website] 👋
 
-### I'm a Father, Husband, and a Software Engineer who specializes in Front-End Technologies!
+### I'm a Father, Husband, and a Technical Product Manager who enjoys building products using the latest web technologies!
 
 - 🔭 I’m currently working as a Technical Product Manager with BuildOps. I'm also a full-stack engineer experienced with the tech stack ReactJS, Java, PostgreSQL.
 - 🌱 Completed the V2 of my portfolio site using Gatsby & Strapi.
