@@ -1,6 +1,6 @@
 ## Hi there, I'm Karthik - aka [skay][website] 👋
 
-### I'm a Father, Husband, and a Technical Product Manager who enjoys building products using the latest web technologies!
+### I'm a Father, Husband, and a Technical Program Manager who helps build technology solutions by leading/collaborating with teams!
 
 - 🔭 I’m currently a technology consultant who's self employed and working as a Technical Program Manager at McGrawHill.
 - 👯 I actively blog at https://blog.skay.dev & love collaborating with other devs from the open source community.
