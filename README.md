@@ -2,11 +2,9 @@
 
 ### I'm a Father, Husband, and a Technical Product Manager who enjoys building products using the latest web technologies!
 
-- 🔭 I’m currently working as a Technical Product Manager with BuildOps. I'm also a full-stack engineer experienced with the tech stack ReactJS, Java, PostgreSQL.
-- 🌱 Completed the V2 of my portfolio site using Gatsby & Strapi.
+- 🔭 I’m currently a technology consultant who's self employed and working as a Technical Program Manager at McGrawHill.
 - 👯 I actively blog at https://blog.skay.dev & love collaborating with other devs from the open source community.
-- 🥅 2021 Goals: Deep dive into Product Management and continue to learn web development and work on my side-projects.
-- ⚡ Fun fact: I love playing the musical keyboard & certified Level 2 - Trinity School of Music, London.
+- ⚡ Fun fact: I love playing the musical keyboard & sing along with my 8-year old son for fun.
 
 ### Connect with me:
 
